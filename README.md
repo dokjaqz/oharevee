@@ -1,2 +1,2 @@
 # oharevee
-ao3 orv skin
+basic instructions for uploading the skin:
